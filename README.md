@@ -23,8 +23,8 @@ This project investigates the abundance and biomass of the sand prawn *Kraussill
 This repository provides a reproducible resource for researchers, environmental managers, and students interested in estuarine ecology, macrobenthic communities, and the ecological role of sand prawns. The data and analysis workflows can support future studies on estuarine macrobenthos in South Africa and similar environments worldwide.
 
 ## License
-[MIT License](LICENSE)
+N/A
 
 ## Contact
 For questions or collaboration, please contact:  
-**Zizipho Mamfengu** – [Email](mailto:ziziphomamfengu17@gmail.com)
+**Zizipho Mamfengu** – [Email](ziziphomamfengu17@gmail.com)
