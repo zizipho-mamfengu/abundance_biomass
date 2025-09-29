@@ -15,7 +15,7 @@ This project investigates the abundance and biomass of the sand prawn *Kraussill
 
 ## Repository Contents
 - `data/` – Raw and processed datasets.
-- `scripts/` – R scripts used for data analysis and visualization.
+- `scripts/` – Python scripts used for data analysis and visualization.
 - `figures/` – Graphs and visualizations of abundance and biomass patterns.
 - `report/` – Final report summarizing methodology, results, and discussion.
 
@@ -27,4 +27,4 @@ This repository provides a reproducible resource for researchers, environmental 
 
 ## Contact
 For questions or collaboration, please contact:  
-**Zizipho Mamfengu** – [Email](mailto:your.email@example.com)
+**Zizipho Mamfengu** – [Email](mailto:ziziphomamfengu17@gmail.com)
